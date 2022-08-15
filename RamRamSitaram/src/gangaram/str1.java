@@ -6,6 +6,7 @@ public class str1 {
 		String name = "  nshsj  jddk  kdk  d d d d d d d" ;
 			
 		System.out.println(name.replaceAll("\\s", ""));
+		System.out.println("2");
 		System.out.println(name.replaceAll(" ",""));
 	}
 
